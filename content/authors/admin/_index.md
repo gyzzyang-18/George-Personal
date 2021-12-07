@@ -2,7 +2,7 @@
 title: George Yang
 role: Senior at the University of Michigan Double Major Economics and Computer
   Science
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
