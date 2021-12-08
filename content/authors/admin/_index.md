@@ -5,9 +5,11 @@ role: Senior at the University of Michigan Double Major Economics and Computer
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Finance
+  - Economics
+  - Cryptocurrency
+  - NFT
+  - DeFi
 social:
   - icon: envelope
     icon_pack: fas
