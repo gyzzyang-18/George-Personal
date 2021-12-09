@@ -38,8 +38,8 @@ experience:
         
   - title: Professor of Semiconductor Physics
     company: University of Michigan, Schoool of Information
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.si.umich.edu/'
+    company_logo: UMSI
     location: Ann Arbor, Michigan
     date_start: '2019-10-01'
     date_end: '2020-05-31'
