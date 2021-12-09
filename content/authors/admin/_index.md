@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: gyzzyang@umich.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/george-yang-2aa01a147/
