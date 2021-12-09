@@ -41,7 +41,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: University of Michigan, Schoool of Information
     company_url: 'https://www.si.umich.edu/'
-    company_logo: UMSI
+    company_logo: org-gc
     location: Ann Arbor, Michigan
     date_start: '2019-10-01'
     date_end: '2020-05-31'
