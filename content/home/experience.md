@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Financial Analyst Intern
-    company: GenCoin
-    company_url: ''
-    company_logo: org-ums1
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Undergraduate Research Assistant
+    company: University of Michigan, School of information 
+    company_url: 'https://www.si.umich.edu/'
+    company_logo: org-umsiF
+    location: Ann Arbor, Michigan
+    date_start: '2019-10-01'
+    date_end: '2020-05-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
+        * Using R language to organize data and to create visual presentations
+        * Identifying patterns from the results of the Logfile analysis
    
 
 design:
