@@ -47,8 +47,9 @@ experience:
         Responsibilities include:
         
         * Plan and coordinate efforts pertaining to researching, selecting, and inviting business leaders in Asia as guest speakers to annual conference at the Ross School of Business
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
+        * Coordinate logistics, international and domestic travel including ground transportation and hotel accommodations for conference speakers
+        * Desinged and develop marketing materials for conference and negotiate pricing with numerous vendors on supplies and services
+        * Manage wesbite and social media account
 
 
 design:
