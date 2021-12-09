@@ -25,7 +25,7 @@ experience:
   - title: Financial Analyst Intern
     company: GenCoin
     company_url: ''
-    company_logo: 
+    company_logo: org-umsi
     location: California
     date_start: '2021-01-01'
     date_end: ''
