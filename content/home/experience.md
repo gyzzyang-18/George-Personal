@@ -36,10 +36,10 @@ experience:
         * Using R language to organize data and to create visual presentations
         * Identifying patterns from the results of the Logfile analysis
 
-  - title: Undergraduate Research Assistant
-    company: University of Michigan, School of information 
-    company_url: 'https://www.si.umich.edu/'
-    company_logo: org-umsiF
+  - title: Director of Marketing
+    company: Asia Business Conference, Ross School of Business
+    company_url: 'https://www.abcross.org/'
+    company_logo: org-abc
     location: Ann Arbor, Michigan
     date_start: '2019-10-01'
     date_end: '2020-05-31'
