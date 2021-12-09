@@ -35,7 +35,21 @@ experience:
         * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
         * Using R language to organize data and to create visual presentations
         * Identifying patterns from the results of the Logfile analysis
-   
+
+ - title: Director of Marketing
+    company: Asia Business Conference (Ross School of Business)
+    company_url: 'https://www.abcross.org/'
+    company_logo: 
+    location: Ann Arbor, Michigan
+    date_start: '2018-09-01'
+    date_end: '2020-02-28'
+    description: |2-
+        Responsibilities include:
+        
+        * Plan and coordinate efforts pertaining to researching, selecting, and inviting business leaders in Asia as gues speakers to annual conference at the Ross           School of Business
+        * Coordinate logistics, international and domestic traveling including ground transportation and hotel accommodations for conference speakers
+        * Desgin and develop marketing materials for conference and negotiate pricing with numerous vendors on supplies and services
+        * Manage website and social media content 
 
 design:
   columns: '2'
