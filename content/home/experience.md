@@ -37,13 +37,18 @@ experience:
         * Deploying
         
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: University of Michigan, Schoool of Information
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ann Arbor, Michigan
+    date_start: '2019-10-01'
+    date_end: '2020-05-31'
+    description: |2-
+    
+        * Using C++/Python to analyze Logfiles extracted from e-books written by Dr. Barbara Ericson
+        * Using R language to organize data and to create visual presentations
+        * Identifying patterns from the results of the Logfile analysis
+    
 
 design:
   columns: '2'
