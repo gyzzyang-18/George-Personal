@@ -36,14 +36,13 @@ experience:
         * Using R language to organize data and to create visual presentations
         * Identifying patterns from the results of the Logfile analysis
 
-
- - title: Director of Marketing
-    company: Asia Business Conference (Ross School of Business)
-    company_url: 'https://www.abcross.org/'
+ - title: Undergraduate Research Assistant
+    company: University of Michigan, School of information 
+    company_url: 'https://www.si.umich.edu/'
     company_logo: org-umsiF
     location: Ann Arbor, Michigan
-    date_start: '2018-09-01'
-    date_end: '2020-02-28'
+    date_start: '2019-10-01'
+    date_end: '2020-05-31'
     description: |2-
         Responsibilities include:
         
@@ -51,6 +50,8 @@ experience:
         * Coordinate logistics, international and domestic traveling including ground transportation and hotel accommodations for conference speakers
         * Desgin and develop marketing materials for conference and negotiate pricing with numerous vendors on supplies and services
         * Manage website and social media content 
+
+       
 
 
 design:
