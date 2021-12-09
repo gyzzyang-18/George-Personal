@@ -42,4 +42,4 @@ Hi, I'm George!
 
 Currently, I am a Senior at the University of Michigan with a double major in Economics and Computer Science. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/gy-resume-fall-2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
