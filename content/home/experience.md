@@ -39,7 +39,7 @@ experience:
  - title: Director of Marketing
     company: Asia Business Conference (Ross School of Business)
     company_url: 'https://www.abcross.org/'
-    company_logo: 
+    company_logo: org-abc
     location: Ann Arbor, Michigan
     date_start: '2018-09-01'
     date_end: '2020-02-28'
