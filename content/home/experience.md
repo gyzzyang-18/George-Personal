@@ -36,34 +36,6 @@ experience:
         * Modelling
         * Deploying
    
-   
-        
-  - title: Undergraduate Research Assistant
-    company: University of Michigan, Schoool of Information
-    company_url: 'https://www.si.umich.edu/'
-    company_logo: org-gc
-    location: Ann Arbor, Michigan
-    date_start: '2019-10-01'
-    date_end: '2020-05-31'
-    description: |2-
-    
-        * Using C++/Python to analyze Logfiles extracted from e-books written by Dr. Barbara Ericson
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
-
- - title: Professor of Semiconductor Physics
-    company: University of Michigan, Schoool of Information
-    company_url: 'https://www.si.umich.edu/'
-    company_logo: UMSI
-    location: Ann Arbor, Michigan
-    date_start: '2019-10-01'
-    date_end: '2020-05-31'
-    description: |2-
-    
-        * Using C++/Python to analyze Logfiles extracted from e-books written by Dr. Barbara Ericson
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
-    
 
 design:
   columns: '2'
