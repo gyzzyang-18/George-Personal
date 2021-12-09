@@ -16,7 +16,7 @@ social:
     link: /#contact
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/george-yang-2aa01a147/
 organizations:
   - name: University of Michigan
     url: https://umich.edu/
@@ -33,4 +33,4 @@ Hi, I'm George!
 
 Currently, I am a Senior at the University of Michigan with a double major in Economics and Computer Science. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
