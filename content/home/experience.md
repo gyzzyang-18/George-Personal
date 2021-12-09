@@ -36,7 +36,7 @@ experience:
         * Using R language to organize data and to create visual presentations
         * Identifying patterns from the results of the Logfile analysis
 
- - title: Undergraduate Research Assistant
+  - title: Undergraduate Research Assistant
     company: University of Michigan, School of information 
     company_url: 'https://www.si.umich.edu/'
     company_logo: org-umsiF
@@ -46,12 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Plan and coordinate efforts pertaining to researching, selecting, and inviting business leaders in Asia as gues speakers to annual conference at the Ross School of Business
-        * Coordinate logistics, international and domestic traveling including ground transportation and hotel accommodations for conference speakers
-        * Desgin and develop marketing materials for conference and negotiate pricing with numerous vendors on supplies and services
-        * Manage website and social media content 
-
-       
+        * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
+        * Using R language to organize data and to create visual presentations
+        * Identifying patterns from the results of the Logfile analysis
 
 
 design:
