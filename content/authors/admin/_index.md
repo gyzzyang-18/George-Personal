@@ -11,9 +11,6 @@ interests:
   - NFT
   - DeFi
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: gyzzyang@umich.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/george-yang-2aa01a147/
@@ -22,10 +19,10 @@ organizations:
     url: https://umich.edu/
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Economics and Computer Science
+      institution: University of Michigan, Ann Arbor
+      year: 2022
+email: gyzzyang@umich.edu
 superuser: true
 highlight_name: true
 ---
