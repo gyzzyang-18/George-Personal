@@ -33,13 +33,14 @@ feature:
   icon_pack: fas
   name: HTML/CSS
 - description: 
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 
   icon: file-excel
   icon_pack: fas
   name: Microsoft Office
-  - description: 
-  icon: r
-  icon_pack: fab
-  name: R
+ 
   
   
 
