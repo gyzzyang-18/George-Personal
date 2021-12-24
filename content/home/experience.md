@@ -74,10 +74,14 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
-        
+        * Participated in conference calls and assisted investment professionals in ad hoc projects and analyses related to evaluation of direct credit investments and private equity fund investments
+        * Researched and prepared drafts of investment memorandums for Investment Committee meetings
+        * Summarized quarterly reports and audited financial statements for investment dashboards
+        * Helped lead and complete internal database project using Microsoft PowerBi through communicating with outsourced specialists and organizing internal incoming data
+        * Created and improved audit contact list via CRM Software Backstop
+        * Organized and automated internal data files to increase efficiency of data filling and information sharing throughout the firm
+        * Suggested and researched new software for the firm to use for better organization management,remote-working communication, and news sourcing
+     
   - title: Director of Marketing
     company: Asia Business Conference, Ross School of Business
     company_url: 'https://www.abcross.org/'
