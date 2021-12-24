@@ -18,16 +18,22 @@ subtitle:
 feature:
 - description: 
   icon: laptop-code
-  icon_pack: fab
+  icon_pack: fas
   name: C++
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: 
   icon: server
   icon_pack: fas
   name: DBMS
 - description: 
-  icon: camera-retro
+  icon: file-excel
   icon_pack: fas
-  name: Photography
+  name: Microsoft Office
+  
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
