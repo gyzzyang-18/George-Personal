@@ -34,15 +34,7 @@ experience:
         
         * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
         * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
-
-       Responsibilities include:
-        
-        * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
-        
-        
+        * Identifying patterns from the results of the Logfile analysis       
 
   - title: Undergraduate Research Assistant
     company: University of Michigan, School of information 
