@@ -25,13 +25,21 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: server
+  icon: database
   icon_pack: fas
-  name: DBMS
+  name: SQL
+- description: 
+  icon: file-code
+  icon_pack: fas
+  name: HTML/CSS
 - description: 
   icon: file-excel
   icon_pack: fas
   name: Microsoft Office
+  - description: 
+  icon: r
+  icon_pack: fab
+  name: R
   
   
 
