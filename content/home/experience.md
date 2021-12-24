@@ -25,7 +25,7 @@ experience:
   - title: Financial Analyst Intern
     company: Felicitas Global Partners
     company_url: 'https://www.felicitasgp.com/'
-    company_logo: org-umsiF
+    company_logo: org-fgp
     location: Pasadena, California
     date_start: '2020-05-01'
     date_end: ''
