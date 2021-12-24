@@ -43,7 +43,7 @@ experience:
   - title: Research Associate
     company: Farmhouse Equity Research
     company_url: 'https://www.feqr.com/'
-    company_logo: org-umsiF
+    company_logo: org-fes
     location: Fair Oaks, California
     date_start: '2020-12-01'
     date_end: ''
@@ -57,17 +57,17 @@ experience:
 
   - title: M-Write Fellow
     company: University of Michigan, Sweetland Writing Centre 
-    company_url: 'https://www.si.umich.edu/'
+    company_url: 'https://lsa.umich.edu/sweetland'
     company_logo: org-umsiF
     location: Ann Arbor, Michigan
-    date_start: '2019-10-01'
-    date_end: '2020-05-31'
+    date_start: '2021-01-07'
+    date_end: ''
     description: |2-
-        Responsibilities include:
+        At the University of Michigan, some courses have portion where students have a writing assignment in which they apply the knowledge they learned in class to a hypthetical real-world situation. My job is to help the professor with this specific segment of the task. Responsibilities include:
         
-        * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
-        * Using R language to organize data and to create visual presentations
-        * Identifying patterns from the results of the Logfile analysis
+        * Holding office hours for students in the class who may have questions about their submission or the writing assignment in general
+        * Attending weekly meetings with Professor Samson and the M-Write Fellow team to grade norm and plan writing assignments
+        * Grade student submissions and give them comments
 
   - title: Undergraduate Research Assistant
     company: University of Michigan, School of information 
