@@ -58,7 +58,7 @@ experience:
   - title: M-Write Fellow
     company: University of Michigan, Sweetland Writing Centre 
     company_url: 'https://lsa.umich.edu/sweetland'
-    company_logo: org-umsiF
+    company_logo: org-sl
     location: Ann Arbor, Michigan
     date_start: '2021-01-07'
     date_end: ''
