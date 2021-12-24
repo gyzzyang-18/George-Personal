@@ -40,8 +40,23 @@ experience:
         * Organized and automated internal data files to increase efficiency of data filling and information sharing throughout the firm
         * Suggested and researched new software for the firm to use for better organization management, remote-working communication, and news sourcing       
 
-  - title: Undergraduate Research Assistant
-    company: University of Michigan, School of information 
+  - title: Research Associate
+    company: Farmhouse Equity Research
+    company_url: 'https://www.feqr.com/'
+    company_logo: org-umsiF
+    location: Fair Oaks, California
+    date_start: '2020-12-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Provided research and analysis on crypto-currency in order to build presentation slide decks to prepare for investment pitch
+        * Researched specific crypto tokens, DeFi tokens, and staking platforms to create reports for client and discuss in meetings
+        * Created an automating dashboard on Google Sheets to update metrics of specific tokens to make monitoring market activity of potential crypto-assets more easily
+        * Researched for 50 publicly traded bio-tech companies located in the San Diego/Southern California for a potential ETF and created a stock index for those 50 potential biotech companies for the ETF
+
+  - title: M-Write Fellow
+    company: University of Michigan, Sweetland Writing Centre 
     company_url: 'https://www.si.umich.edu/'
     company_logo: org-umsiF
     location: Ann Arbor, Michigan
@@ -67,24 +82,6 @@ experience:
         * Using C++ and Python to analyze Logfiles extracted from Ebooks written by Dr. Barbara Ericson
         * Using R language to organize data and to create visual presentations
         * Identifying patterns from the results of the Logfile analysis
-
-  - title: Undergraduate Research Assistant
-    company: University of Michigan, School of information 
-    company_url: 'https://www.si.umich.edu/'
-    company_logo: org-umsiF
-    location: Ann Arbor, Michigan
-    date_start: '2019-10-01'
-    date_end: '2020-05-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Participated in conference calls and assisted investment professionals in ad hoc projects and analyses related to evaluation of direct credit investments and private equity fund investments
-        * Researched and prepared drafts of investment memorandums for Investment Committee meetings
-        * Summarized quarterly reports and audited financial statements for investment dashboards
-        * Helped lead and complete internal database project using Microsoft PowerBi through communicating with outsourced specialists and organizing internal incoming data
-        * Created and improved audit contact list via CRM Software Backstop
-        * Organized and automated internal data files to increase efficiency of data filling and information sharing throughout the firm
-        * Suggested and researched new software for the firm to use for better organization management,remote-working communication, and news sourcing
      
   - title: Director of Marketing
     company: Asia Business Conference, Ross School of Business
