@@ -1,22 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Rare Pizzas
+summary: A NFT project that fed the world free pizzas on May 22 2021
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Rare Pizzas
+date: "2021-05-20"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.rarepizzas.com/"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
