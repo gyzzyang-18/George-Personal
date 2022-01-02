@@ -38,8 +38,8 @@ experience:
         * Helped lead and complete internal database project using Microsoft PowerBi through communicating with outsourced specialists and organizing internal incoming data
         * Created and improved audit contact list via CRM Software Backstop
         * Organized and automated internal data files to increase efficiency of data filling and information sharing throughout the firm
-        * Suggested and researched new software for the firm to use for better organization management, remote-working communication, and news sourcing       
-
+        * 	Suggested and researched new software to use for better organization management, remote-working communication, and news sourcing
+     
   - title: Research Associate
     company: Farmhouse Equity Research
     company_url: 'https://www.feqr.com/'
@@ -50,10 +50,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Provided research and analysis on crypto-currency in order to build presentation slide decks to prepare for investment pitch
-        * Researched specific crypto tokens, DeFi tokens, and staking platforms to create reports for client and discuss in meetings
-        * Created an automating dashboard on Google Sheets to update metrics of specific tokens to make monitoring market activity of potential crypto-assets more easily
-        * Researched for 50 publicly traded bio-tech companies located in the San Diego/Southern California for a potential ETF and created a stock index for those 50 potential biotech companies for the ETF
+        * Provided research and analysis on crypto-currency to build presentation slide decks to prepare for investment pitch
+        * Researched specific crypto tokens, DeFi tokens, and staking platforms to create reports for client’s presentation
+        * Created an automating dashboard on Google Sheets to update metrics of specific tokens to facilitate monitoring market activity of potential crypto-assets 
+        * Conducted research on 50 publicly traded bio-tech companies located in the San Diego/Southern California for the creation of a potential ETF and created a stock index for those 50 potential biotech companies for the ETF
 
   - title: M-Write Fellow
     company: University of Michigan, Sweetland Writing Centre 
